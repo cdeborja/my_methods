@@ -4,6 +4,3 @@ def my_rotate(idx)
     self << move_me
   end
 end
-
-if __FILE__ == $PROGRAM_NAME
-end
